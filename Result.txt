@@ -1,0 +1,7 @@
+Pro Grad coding task (Front - End) :
+
+1.Created a single page library management website using HTML,CSS,JS,Bootstrap.
+2.User can add a record into the library or delete the record.(Since only frint end is developed data is static as of now)
+3.All the records are displayed in a HTML table and also paginaton is implemented for the records.
+4.A filter search bar is implemented which can be used to search based on title,author etc.
+5.A login page UI is also developed.
